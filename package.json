@@ -16,7 +16,7 @@
     "url": "https://github.com/Trebushnoi/tslintconfig/issues"
   },
   "homepage": "https://github.com/Trebushnoi/tslintconfig#readme",
-  "devDependencies": {
-    "codelyzer": "^4.5.0",
+  "dependencies": {
+    "codelyzer": "^4.5.0"
   }
 }
